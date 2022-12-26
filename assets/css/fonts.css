@@ -1,20 +1,28 @@
-/* @font-face {
-    font-family: 'pushpenny';
-    src: url('../fonts/PushPenny/PushPenny-Book.ttf');
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/Raleway/Raleway-Regular.ttf');
 }
 @font-face {
-    font-family: 'pushpenny-bold';
-    src: url('../fonts/PushPenny/PushPenny-Bold.ttf');
+    font-family: 'raleway-bold';
+    src: url('../fonts/Raleway/Raleway-Bold.ttf');
 }
 @font-face {
-    font-family: 'pushpenny-light';
-    src: url('../fonts/PushPenny/PushPenny-Light.ttf');
+    font-family: 'raleway-light';
+    src: url('../fonts/Raleway/Raleway-Light.ttf');
 }
 @font-face {
-    font-family: 'pushpenny-medium';
-    src: url('../fonts/PushPenny/PushPenny-Medium.ttf');
+    font-family: 'raleway-medium';
+    src: url('../fonts/Raleway/Raleway-Medium.ttf');
 }
 @font-face {
-    font-family: 'pushpenny-xbold';
-    src: url('../fonts/PushPenny/PushPenny-ExtraBold.ttf');
-} */
+    font-family: 'raleway-xbold';
+    src: url('../fonts/Raleway/Raleway-ExtraBold.ttf');
+}
+@font-face {
+  font-family: 'raleway-smbold';
+  src: url('../fonts/Raleway/Raleway-SemiBold.ttf');
+}
+@font-face {
+  font-family: 'raleway-thin';
+  src: url('../fonts/Raleway/Raleway-Thin.ttf');
+}

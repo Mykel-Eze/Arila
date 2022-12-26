@@ -1,11 +1,13 @@
 :root {
     --pry-color: #1C75BC;
     --sec-color: #8DC63F;
-	  --font: 'pushpenny', sans-serif;
-    --font-bold: 'pushpenny-bold', sans-serif;
-    --font-medium: 'pushpenny-medium', sans-serif;
-    --font-light: 'pushpenny-light', sans-serif;
-    --font-xbold: 'pushpenny-xbold', sans-serif;
+	  --font: 'raleway', sans-serif;
+    --font-bold: 'raleway-bold', sans-serif;
+    --font-medium: 'raleway-medium', sans-serif;
+    --font-light: 'raleway-light', sans-serif;
+    --font-xbold: 'raleway-xbold', sans-serif;
+    --font-smbold: 'raleway-smbold', sans-serif;
+    --font-thin: 'raleway-thin', sans-serif;
 
     width: 100%;
     overflow-x: hidden;
@@ -179,9 +181,19 @@ img {
     max-width: 100%;
 }
 
+#app-wrapper .container {
+  width: 90%;
+}
+
+#main-contents-wrapper {
+  min-height: 50vh;
+}
+
+@media (max-width: 600px) {}
+
 /**** Some Home Style ****/
 #home {
-    background-color: #f7f7f7;
+    background-color: #1C75BC;
     color: black;
     height: calc(100vh - 80px);
     min-height: 600px;
