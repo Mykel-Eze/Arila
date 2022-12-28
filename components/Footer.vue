@@ -46,11 +46,11 @@
                     Join Us
                   </nuxt-link>
                 </li>
-                <li>
+                <!-- <li>
                   <nuxt-link to="/contact" class="footer-link">
                     Contact us
                   </nuxt-link>
-                </li>
+                </li> -->
               </ul>
             </div>
           </div>
