@@ -8,7 +8,8 @@
     <!---=== Solar-Pump-Banner Section ===--->
     <section id="solar-pump-banner" class="scrollspy">
       <div class="row mag-0">
-        <img src="~/assets/images/solar-pump.jpg" alt="solar pump farm" class="solar-pump-farm full-width">
+        <img src="~/assets/images/solar-pump.jpg" alt="solar pump farm" class="solar-pump-farm full-width hidden-xs">
+        <img src="~/assets/images/solar-pump-2.jpg" alt="solar pump farm" class="solar-pump-farm full-width visible-xs">
       </div>
     </section>
     <!---=== end of Solar-Pump-Banner Section ===--->
@@ -24,7 +25,7 @@
                   Africa’s foremost <br> <span class="sec-color">enabler of business</span>
                 </h2>
 
-                <div class="arila-meaning flex-div">
+                <div class="arila-meaning flex-div hidden-xs">
                   <img src="~/assets/images/listen.svg" alt="sound" class="sound-icon">
                   <div class="meaning-block">
                     <div class="bold-txt">
@@ -58,6 +59,20 @@
                 clean and reliable energy, affordable credit and every aspect of connectivity.
               </p>
             </div>
+
+            <div class="arila-meaning flex-div visible-xs">
+              <img src="~/assets/images/listen.svg" alt="sound" class="sound-icon">
+              <div class="meaning-block">
+                <div class="bold-txt">
+                  Arila
+                </div>
+                <div class="meaning-origin">
+                  <small>Ogbia language of Central Delta, Nigeria</small> <br>
+                  Denotes: Presence & Strength <br>
+                  <i>“We are here. We are strong”</i>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -82,12 +97,11 @@
 
       <div class="cc-block-2">
         <div class="ccbr-grid-div side-1">
+          <div class="visible-xs-sm">
+            <img src="~/assets/images/tailors.jpg" alt="tailors" class="full-width">
+          </div>
           <div class="container">
-            <div class="ccbr-img-side">
-              <div class="visible-xs">
-                <img src="~/assets/images/tailors.jpg" alt="tailors" class="full-width">
-              </div>
-            </div>
+            <div class="ccbr-img-side"></div>
             <div class="ccbr-txt-side">
               <hr class="top-hr">
               <p>
@@ -100,6 +114,9 @@
           </div>
         </div>
         <div class="ccbr-grid-div side-2">
+          <div class="visible-xs-sm">
+            <img src="~/assets/images/tailor.jpg" alt="tailor" class="full-width">
+          </div>
           <div class="container">
             <div class="ccbr-txt-side">
               <hr class="top-hr">
@@ -110,11 +127,7 @@
                 diverse and profitable sectors.
               </p>
             </div>
-            <div class="ccbr-img-side">
-              <div class="visible-xs">
-                <img src="~/assets/images/tailor.jpg" alt="tailor" class="full-width">
-              </div>
-            </div>
+            <div class="ccbr-img-side"></div>
           </div>
         </div>
       </div>
@@ -328,25 +341,28 @@
           <div class="container">
             <div class="impact-desc-wrapper">
               <div class="impact-desc-block flex-div">
-                <img src="~/assets/images/impact-1.svg" alt="impact" class="impact-desc-img">
+                <img src="~/assets/images/impact-1.svg" alt="impact" class="impact-desc-img hidden-xs-sm">
+                <img src="~/assets/images/impact-1a.svg" alt="impact" class="impact-desc-img visible-xs-sm">
                 <div class="impact-desc-txt">
                   We are committed to drive economic growth and development in Africa by resolving logistical challenges
                 </div>
               </div>
               <div class="impact-desc-block flex-div">
-                <img src="~/assets/images/impact-2.svg" alt="impact" class="impact-desc-img">
+                <img src="~/assets/images/impact-2.svg" alt="impact" class="impact-desc-img hidden-xs-sm">
+                <img src="~/assets/images/impact-2a.svg" alt="impact" class="impact-desc-img visible-xs-sm">
                 <div class="impact-desc-txt">
                   Sustainability is at our core, from providing renewable energy solutions to enabling efficient use of transportation
                 </div>
               </div>
               <div class="impact-desc-block flex-div">
-                <img src="~/assets/images/impact-3.svg" alt="impact" class="impact-desc-img">
+                <img src="~/assets/images/impact-3.svg" alt="impact" class="impact-desc-img hidden-xs-sm">
+                <img src="~/assets/images/impact-3a.svg" alt="impact" class="impact-desc-img visible-xs-sm">
                 <div class="impact-desc-txt">
                   We are in a hurry: Africa’s growing population requires everyone to contribute to sustainable development
                 </div>
               </div>
             </div>
-            <div class="impact-desc-img-wrapper">
+            <div class="impact-desc-img-wrapper hidden-xs">
               <div class="">
                 <img src="~/assets/images/photo-collage.png" alt="happy woman and tech farmers" class="impact-desc-main-img">
               </div>
@@ -413,8 +429,9 @@
                   </div>
                 </div>
               </div>
+              <img src="~/assets/images/vertical-track.png" alt="track" class="track-path-2 visible-xs-sm">
             </div>
-            <img src="~/assets/images/track-line.png" alt="track" class="track-path">
+            <img src="~/assets/images/track-line.png" alt="track" class="track-path hidden-xs-sm">
           </div>
         </div>
 

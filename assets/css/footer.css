@@ -128,17 +128,12 @@ background: #1F2C3D;
   color: rgba(241, 241, 241, 0.7);
 }
 
-@media(max-width: 992px) and (min-width: 601px) {
-  .footer-content-block:last-child {
-    grid-column-start: 1;
-    grid-column-end: 3;
-    width: 80%;
-  }
-}
-
 @media(max-width: 992px) {
   .footer-content-block {
       padding: 10px;
+  }
+  div#newsletter-wrapper.footer-content-block {
+    grid-area: 1 / 2;
   }
   .footer-contents-wrapper {
     display: grid;
@@ -162,5 +157,11 @@ background: #1F2C3D;
   }
   .footer-sub-wrapper > div:not(:last-child) {
     margin-bottom: 10px;
+  }
+  .footer-contents-wrapper {
+    gap: 40px;
+  }
+  div#newsletter-wrapper.footer-content-block[data-v-0d2d6594] {
+    grid-area: 2;
   }
 }

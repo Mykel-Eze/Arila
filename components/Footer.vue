@@ -78,7 +78,7 @@
             </div>
           </div>
 
-          <div class="footer-content-block">
+          <div id="newsletter-wrapper" class="footer-content-block">
             <div class="footer-sec-title">
               Join Our Newsletter
             </div>
