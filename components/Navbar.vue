@@ -30,7 +30,7 @@
               </nuxt-link>
             </li>
             <li>
-              <nuxt-link to="/join" class="nav-pry-btn btn" @click="scrollToTop()">
+              <nuxt-link to="/join-us" class="nav-pry-btn btn" @click="scrollToTop()">
                 Join Us
               </nuxt-link>
             </li>
@@ -62,7 +62,7 @@
           </nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/join" class="sidenav-close">
+          <nuxt-link to="/join-us" class="sidenav-close">
             <button class="nav-pry-btn btn pointer">
               Join Us
             </button>
