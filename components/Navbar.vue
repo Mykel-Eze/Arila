@@ -46,11 +46,11 @@
         </nuxt-link>
       </div>
       <ul class="sidenav-flex">
-        <li>
+        <!-- <li>
           <nuxt-link to="/" class="sidenav-close" @click="scrollToTop()">
             <span>Home</span>
           </nuxt-link>
-        </li>
+        </li> -->
         <li>
           <nuxt-link to="/approach" class="sidenav-close" @click="scrollToTop()">
             <span>Our Approach</span>

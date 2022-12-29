@@ -191,3 +191,145 @@ section#board-of-directors {
   }
 }
 /**** end of Board-Of-Directors Styles ****/
+
+/****##### Leadership-Details Page #####****/
+
+/**** Leadership-Details-Home Styles ****/
+section#leader-details-home {
+  background-color: #1A242D;
+  color: white;
+  margin-bottom: 10px;
+}
+section#leader-details-home::before {
+  position: absolute;
+  content: "";
+  width: 60%;
+  height: 100%;
+  right: 0;
+  top: 0;
+  background-image: url("../images/mask.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+img.ldh-img {
+  vertical-align: bottom;
+}
+.ldh-img-side {
+  width: 40%;
+}
+.ldh-txt-side {
+  width: 60%;
+  padding: 80px;
+}
+.board-role-txt {
+  font-size: 16px;
+  font-family: var(--font-medium);
+}
+section#leader-details-home h2.section-title {
+  margin-top: 10px;
+}
+.board-member-desc {
+  font-size: 20px;
+  font-family: var(--font-medium);
+}
+
+@media (min-width: 993px) {
+  img.mask-m {
+    display: none;
+  }
+}
+
+@media (max-width: 992px) {
+  section#leader-details-home::before {
+    display: none;
+  }
+  .ldh.flex-div {
+    flex-direction: column;
+  }
+  .ldh-img-side, .ldh-txt-side {
+    width: 100%;
+  }
+  img.mask-m {
+    position: absolute;
+    top: -30px;
+    right: 10px;
+  }
+}
+
+@media (max-width: 600px) {}
+/**** end of Leadership-Details-Home Styles ****/
+
+/**** Biography-Details-Home Styles ****/
+.tb-grid-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin: 80px 0 50px;
+}
+.tb-bold-txt.bold-txt {
+  font-size: 40px;
+  line-height: 52px;
+}
+.tb-normal-txt {
+  font-size: 18px;
+  color: #666666;
+}
+.biography-pictures {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+.biography-pictures div {
+  border-radius: 8px;
+  overflow: hidden;
+}
+.biography-pictures img {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.more-biography-detials {
+  font-size: 16px;
+  font-family: var(--font-medium);
+}
+
+.back-to-team {
+  margin: 100px 0 30px;
+}
+.back-to-team > a.flex-div {
+  font-size: 30px;
+  justify-content: center;
+  color: #828282;
+  font-family: var(--font-bold);
+  gap: 10px;
+}
+.back-to-team > a.flex-div:hover {
+  color: var(--sec-color);
+}
+
+hr.bd-hr {
+  height: 1px;
+  background: black;
+  border: none;
+  margin: 60px 0 50px;
+}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 600px) {
+  .ldh-txt-side {
+    padding: 45px 20px 40px;
+  }
+  .tb-grid-wrapper {
+    margin-top: 40px;
+    grid-template-columns: 100%;
+  }
+  .biography-pictures {
+    grid-template-columns: 100%;
+  }
+}
+/**** end of Biography-Details-Home Styles ****/

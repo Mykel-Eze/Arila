@@ -71,7 +71,7 @@
                   first incumbent president in Nigerian history to concede defeat in an election after losing the 2015
                   presidential election.
                 </p>
-                <nuxt-link to="#" class="full-profile flex-div">
+                <nuxt-link to="/leadership/dr-goodluck-jonathan" class="full-profile flex-div">
                   <span>Full Profile</span>
                   <img src="~/assets/images/right-arr-green.svg" alt="right arr" class="right-arr">
                 </nuxt-link>
@@ -97,7 +97,7 @@
                   the northern part of the country resulting in a B.Sc. (Political Science) degree from the Bayero
                   University, Kano.
                 </p>
-                <nuxt-link to="#" class="full-profile flex-div">
+                <nuxt-link to="/leadership/amb-hassan-ardo-tukur" class="full-profile flex-div">
                   <span>Full Profile</span>
                   <img src="~/assets/images/right-arr-green.svg" alt="right arr" class="right-arr">
                 </nuxt-link>
@@ -123,7 +123,7 @@
                   established governance, programme and operational systems; managed annual grantmaking of over
                   $150 million in health, nutrition, economic empowerment education and construction.
                 </p>
-                <nuxt-link to="#" class="full-profile flex-div">
+                <nuxt-link to="/leadership/adhiambo-odaga" class="full-profile flex-div">
                   <span>Full Profile</span>
                   <img src="~/assets/images/right-arr-green.svg" alt="right arr" class="right-arr">
                 </nuxt-link>
@@ -148,7 +148,7 @@
                   and commanded a multi-national battlegroup in the 1996 NATO invention in Bosnia. He was also one
                   of the authors that wrote the new leadership approach which drives the current UK command philosophy.
                 </p>
-                <nuxt-link to="#" class="full-profile flex-div">
+                <nuxt-link to="/leadership/colonel-hamish-macdonald" class="full-profile flex-div">
                   <span>Full Profile</span>
                   <img src="~/assets/images/right-arr-green.svg" alt="right arr" class="right-arr">
                 </nuxt-link>
@@ -174,19 +174,19 @@
 
         <div class="container full-width-xs">
           <div class="bod-wrapper">
-            <nuxt-link to="/#" class="bod-block rel">
+            <nuxt-link to="/leadership/bishop-precious-omuku" class="bod-block rel">
               <img src="~/assets/images/leadership/bishop-precious-omuku.jpg" alt="BISHOP PRECIOUS OMUKU" class="bod-picture">
               <div class="bod-name">
                 BISHOP PRECIOUS OMUKU
               </div>
             </nuxt-link>
-            <nuxt-link to="/#" class="bod-block rel">
+            <nuxt-link to="/leadership/dimieari-von-kemedi" class="bod-block rel">
               <img src="~/assets/images/leadership/dimieari-von-kemedi.jpg" alt="DIMIEARI VON KEMEDI" class="bod-picture">
               <div class="bod-name">
                 DIMIEARI VON KEMEDI
               </div>
             </nuxt-link>
-            <nuxt-link to="/#" class="bod-block rel">
+            <nuxt-link to="/leadership/debisi-araba" class="bod-block rel">
               <img src="~/assets/images/leadership/debisi-araba.jpg" alt="DR. DEBISI ARABA" class="bod-picture">
               <div class="bod-name">
                 DR. DEBISI ARABA
