@@ -147,10 +147,13 @@ h5, h6{
     height: 100%;
 }
 .hidden-xs{
-    display: block;
+    display: block !important;
+}
+.hidden-xs.flex-div {
+  display: flex !important;
 }
 .visible-xs{
-    display: none;
+    display: none !important;
 }
 .hidden-xs-sm{
     display: block !important;
@@ -208,6 +211,9 @@ img {
 @media (max-width: 600px) {
   .visible-xs {
     display: block !important;
+  }
+  .visible-xs.flex-div {
+    display: flex !important;
   }
   .hidden-xs {
     display: none !important;

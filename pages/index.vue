@@ -171,10 +171,10 @@
                     <img src="~/assets/images/sdg/sdg-15.png" alt="sdg" class="sdg-img">
                   </div>
                   <div class="sdg-figure">
-                    500,000
+                    700,000
                   </div>
                   <div class="sdg-block-title">
-                    Farmers
+                    People
                   </div>
                   <p class="sdg-block-desc">
                     Earn a decent living currently equivalent to US$600-800 profit per hectare each season
@@ -278,10 +278,10 @@
                     $2 Billion
                   </div>
                   <div class="sdg-block-title">
-                    Added to Agricultural GDP
+                    Added to GDP
                   </div>
                   <p class="sdg-block-desc">
-                    Adding US$2 billion to agricultural GDP (plus multiplier effects)
+                    Adding US$2 billion to GDP (plus multiplier effects)
                   </p>
                   <div class="explore-sdg">
                     <a href="#" class="explore-sdg-link flex-div">
