@@ -42,7 +42,7 @@
                   </nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/join" class="footer-link">
+                  <nuxt-link to="/join-us" class="footer-link">
                     Join Us
                   </nuxt-link>
                 </li>
