@@ -1,6 +1,6 @@
 <!-- eslint-disable vue/html-self-closing -->
 <template>
-  <div>
+  <div id="home-page">
     <!---=== Home Section ===--->
     <HomeSection />
     <!---=== end of Home Section ===--->

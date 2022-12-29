@@ -50,17 +50,19 @@ html {
 body {
 	font-family: var(--font);
 	height: auto;
-    min-height: 100vh;
-    background-color: white;
-    color: black;
+  min-height: 100vh;
+  background-color: white;
+  color: black;
+  width: 100%;
+  overflow-x: hidden;
 }
 h1, h2, h3, h4{
-    font-family: var(--font-light);
-    letter-spacing: -2px;
+  font-family: var(--font-light);
+  letter-spacing: -2px;
 }
 h5, h6{
-    font-family: var(--font-light);
-    letter-spacing: -1px;
+  font-family: var(--font-light);
+  letter-spacing: -1px;
 }
 
 .pad0{
