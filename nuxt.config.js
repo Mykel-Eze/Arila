@@ -11,7 +11,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Developing New Agro Enterprises' },
+      { hid: 'description', name: 'description', content: 'Building the flow of food, finance, energy & transport across Africa.' },
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'Keywords', content: 'Arila, Agro Enterprises, Clean energy solutions for Africa, MSME' },
       { name: 'theme-color', content: '#4177B5' }
