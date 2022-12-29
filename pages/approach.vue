@@ -136,10 +136,10 @@
               <p class="sector-desc">
                 <span class="bold-txt">Japtini Food & Retail</span> aggregates the primary produce and takes it to the marketplace
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -161,10 +161,10 @@
                 agriculture, including solar for homes, small businesses, hospitals and schools, along with
                 equipment such as solar torches, radios and batteries
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -185,10 +185,10 @@
                 <span class="bold-txt">Japtini Logistics</span> uses advanced technology to open access to third
                 party logistics service providers
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -208,10 +208,10 @@
               <p class="sector-desc">
                 <span class="bold-txt">Toll Processing</span> pays owners of processing facilities to process on a combined mass scale for the farmers
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -233,10 +233,10 @@
                 companies’ services, providing planning and support. Additionally, Arila provides expertise in finance,
                 technology, regulations, human resources and marketing.
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr-white.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -258,10 +258,10 @@
                 unbanked communities through financial literacy, small and micro lending, and payment
                 gateways for online payments and cash withdrawals.
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -282,10 +282,10 @@
                 <span class="bold-txt">Fadhila</span> designs crop protection and assesses crop nutrient requirements, and
                 then commissions producers to provide quality inputs to the specifications of the farmers
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -306,10 +306,10 @@
                 <span class="bold-txt">Alluvial Agriculture</span> provides training, technology, land preparation,
                 irrigation, input supplies and market access within contiguous farmlands in community blocks
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -330,10 +330,10 @@
                 <span class="bold-txt">Japtini Asset Finance</span> helps companies purchase equipment such as
                 trucks or combine harvesters by working with financial institutions and service providers
               </p>
-              <div class="learn-how flex-div">
+              <a href="#" class="learn-how flex-div">
                 <span>Learn How</span>
                 <img src="~/assets/images/right-arr.svg" alt="right arr" class="right-arr">
-              </div>
+              </a>
             </div>
           </div>
         </div>

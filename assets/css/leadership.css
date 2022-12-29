@@ -1,0 +1,193 @@
+/**** Home Styles ****/
+section#leadership-home {
+  background-color: var(--pry-color);
+  background-image: url("../images/leaderhip-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 90vh;
+}
+p.leadership-home-desc {
+  font-size: 22px;
+  font-family: var(--font-medium);
+}
+.leadership-home-txt {
+  max-width: 575px;
+  position: absolute;
+  top: 45%;
+  transform: translateY(-50%);
+  left: 10%;
+}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 600px) {
+  .leadership-home-txt {
+    left: 0;
+  }
+}
+/**** end of Home Styles ****/
+
+/**** Business-Management Styles ****/
+section#business-managemnet .container {
+  background: #1A242D;
+  color: white;
+  padding: 50px 0;
+  position: relative;
+  top: -20vh;
+}
+p.bm-txt {
+  font-size: 16px;
+  max-width: 605px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bm-btn-wrapper {
+  margin-top: 50px;
+}
+img.dot-pattern-1 {
+  position: absolute;
+  top: -40px;
+  right: -40px;
+}
+img.dot-pattern-2 {
+  position: absolute;
+  bottom: -40px;
+  left: -40px;
+}
+
+@media (max-width: 992px) {
+  section#business-managemnet {
+    margin-bottom: -50px;
+  }
+}
+
+@media (max-width: 600px) {
+  section#business-managemnet .container {
+    width: 100%;
+  }
+  img.dot-pattern-1 {
+    right: 20px;
+    top: -50px;
+  }
+  img.dot-pattern-2 {
+    left: 20px;
+    bottom: -50px;
+  }
+}
+/**** end of Business-Management Styles ****/
+
+/**** Advisory-Board Styles ****/
+.leaders-cards-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.leadership-board-header.flex-div {
+  gap: 30px;
+  margin-bottom: 40px;
+}
+.leaders-cards-wrapper .flip-box {
+  height: 400px;
+}
+.leadership-board-title {
+  letter-spacing: -2px;
+  font-size: 48px;
+  font-family: var(--font-bold);
+}
+hr.leadership-board-hr {
+  border: none;
+  background: #747474;
+  height: 1px;
+  margin: 0;
+  flex-grow: 1;
+}
+.leaders-cards-wrapper .flip-box {
+  border: none;
+}
+.leaders-cards-wrapper .flipbox-title {
+  top: auto;
+  bottom: 40px;
+  left: 0;
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+}
+.leaders-cards-wrapper .flip-box-back {
+  background: #C4C4C4;
+  color: white;
+  padding: 40px;
+}
+.leaders-cards-wrapper .sector-title {
+  font-size: 30px;
+}
+.leaders-cards-wrapper p.sector-desc {
+  font-size: 16px;
+  color: white;
+}
+.full-profile.flex-div {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 15px 20px 15px 30px;
+  background: white;
+  color: var(--sec-color);
+  font-size: 20px;
+  font-family: var(--font-bold);
+}
+
+@media (max-width: 992px) {}
+
+@media (max-width: 600px) {
+  .leaders-cards-wrapper {
+    grid-template-columns: 100%;
+  }
+  .leadership-board-title {
+    font-size: 28px;
+  }
+}
+/**** end of Advisory-Board Styles ****/
+
+/**** Board-Of-Directors Styles ****/
+section#board-of-directors {
+  padding: 70px 0 100px;
+}
+.bod-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+}
+.bod-block {
+  transition: transform 1.2s;
+}
+.bod-block:hover {
+  transform: scale(1.05);
+}
+.bod-name {
+  font-size: 26px;
+  color: white;
+  font-family: var(--font-bold);
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+}
+
+@media (max-width: 992px) {
+  .bod-wrapper {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  section#board-of-directors {
+    padding-bottom: 20px;
+  }
+  .bod-wrapper {
+    grid-template-columns: 100%;
+    gap: 5px;
+  }
+  .container.full-width-xs {
+    width: 100% !important;
+  }
+}
+/**** end of Board-Of-Directors Styles ****/
