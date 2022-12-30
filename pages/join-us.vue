@@ -61,23 +61,25 @@
                 </div>
                 <div class="collapsible-body">
                   <p class="ju-txt">
-                    We enable SMEs, logistics companies, farms and other businesses to take the next steps to growth
-                    and development.
+                    The Arila commitment to absolute transparency and meaningful scale translates to increased and diversified tax revenue for governments.
                   </p>
                   <p class="ju-txt">
-                    Through our network of resource, equipment and service providers, we offer a transparent choice of
-                    verified and reliable solutions providers. We help efficient business decision making through, for
-                    example, offsetting the need to seek pricing from 100 different truck owners for a transport assignment.
+                    This revenue comes from businesses that often would otherwise have remained in the informal sector.
                   </p>
                   <p class="ju-txt">
-                    We service every aspect of business activity, from verifying the quality of inputs to accessing
-                    loans or insurance.
+                    The implications for sustainable economic growth and development are clear. Our objectives align with
+                    specific progress on each of the UN’s 17 SDG’s, including ending poverty and hunger, good health and
+                    well being, quality education and gender equality.
                   </p>
                   <p class="ju-txt">
-                    For logistics services providers, we offer visibility across thousands of businesses across the continent,
-                    allowing owners to assess and cater to demand, with transparency on the financing available to pay for the
-                    services.
+                    This is why established intergovernmental institutions and NGOs, such as USAID and Mercy Corps,
+                    have chosen to partner with Arila.
                   </p>
+                  <p class="ju-txt">
+                    This is why established intergovernmental institutions and NGOs, such as USAID and Mercy Corps,
+                    have chosen to partner with Arila.
+                  </p>
+                  We currently serve businesses across east and west Africa, and our network is developing in southern Africa.
                 </div>
               </li>
               <li>
@@ -87,22 +89,23 @@
                 </div>
                 <div class="collapsible-body">
                   <p class="ju-txt">
-                    We enable SMEs, logistics companies, farms and other businesses to take the next steps to growth
-                    and development.
+                    The Arila Group aligns impact at meaningful scale with a transparent model for significant and
+                    sustained revenue.
                   </p>
                   <p class="ju-txt">
-                    Through our network of resource, equipment and service providers, we offer a transparent choice of
-                    verified and reliable solutions providers. We help efficient business decision making through, for
-                    example, offsetting the need to seek pricing from 100 different truck owners for a transport assignment.
+                    Arila owns a majority stake in each of the family of eight operating companies, working across
+                    diverse and uncorrelated sectors.
                   </p>
                   <p class="ju-txt">
-                    We service every aspect of business activity, from verifying the quality of inputs to accessing
-                    loans or insurance.
+                    While Arila coordinates the subsidiary companies to maximise synergies, each company has its
+                    own independent P&L and additionally pursues business interests beyond the Arila network.
                   </p>
                   <p class="ju-txt">
-                    For logistics services providers, we offer visibility across thousands of businesses across the continent,
-                    allowing owners to assess and cater to demand, with transparency on the financing available to pay for the
-                    services.
+                    The companies are paid for services provided to the customer; for example, Japtini Logistics
+                    is paid by the farmer wanting their produce transported.
+                  </p>
+                  <p class="ju-txt">
+                    Our objectives align with specific progress on each of the UN’s 17 SDG’s.
                   </p>
                 </div>
               </li>
@@ -113,22 +116,20 @@
                 </div>
                 <div class="collapsible-body">
                   <p class="ju-txt">
-                    We enable SMEs, logistics companies, farms and other businesses to take the next steps to growth
-                    and development.
+                    We are growing at a pace and recruiting at a pace to match.
                   </p>
                   <p class="ju-txt">
-                    Through our network of resource, equipment and service providers, we offer a transparent choice of
-                    verified and reliable solutions providers. We help efficient business decision making through, for
-                    example, offsetting the need to seek pricing from 100 different truck owners for a transport assignment.
+                    Arila and its eight subsidiary companies currently serve businesses across east
+                    and west Africa, and we are expanding into southern Africa.
                   </p>
                   <p class="ju-txt">
-                    We service every aspect of business activity, from verifying the quality of inputs to accessing
-                    loans or insurance.
+                    We are keen to hear from self-starters with the drive and ambition to transform
+                    the economic and social environment on our continent. We have opportunities across
+                    multiple disciplines and geographies.
                   </p>
                   <p class="ju-txt">
-                    For logistics services providers, we offer visibility across thousands of businesses across the continent,
-                    allowing owners to assess and cater to demand, with transparency on the financing available to pay for the
-                    services.
+                    We are committed to delivering equal opportunities and target 70% female employees,
+                    with a focus on youth and under-served communities.
                   </p>
                 </div>
               </li>
