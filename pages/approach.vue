@@ -126,12 +126,12 @@
             <div class="flip-box-front">
               <img src="~/assets/images/food-retail.jpg" alt="Food Retail" class="flip-img">
               <div class="flipbox-title">
-                Food Retail
+                Food & Retail
               </div>
             </div>
             <div class="flip-box-back">
               <div class="sector-title">
-                Food Retail
+                Food & Retail
               </div>
               <p class="sector-desc">
                 <span class="bold-txt">Japtini Food & Retail</span> aggregates the primary produce and takes it to the marketplace

@@ -142,14 +142,13 @@ export default {
       }
     })
 
-    autoplay()
-    function autoplay () {
-      const elemSlide = document.querySelector('#home .carousel')
-      M.Carousel.getInstance(elemSlide).next()
+    // function autoplay () {
+    //   const elemSlide = document.querySelector('#home .carousel')
+    //   M.Carousel.getInstance(elemSlide).next()
 
-      setTimeout(autoplay, 4000)
-    }
-    setTimeout(autoplay, 4000)
+    //   setTimeout(autoplay, 8000)
+    // }
+    // setTimeout(autoplay, 8000)
   },
   methods: {
     prev () {
@@ -168,7 +167,7 @@ export default {
 
 <style scoped>
   #home[data-slide="1"] {
-    background-image: url("~/assets/images/hero-1a.jpg");
+    background-image: url("~/assets/images/hero-1b.jpg");
   }
 
   #home[data-slide="2"] {

@@ -8,8 +8,8 @@
     <!---=== Solar-Pump-Banner Section ===--->
     <section id="solar-pump-banner" class="scrollspy">
       <div class="row mag-0">
-        <img src="~/assets/images/solar-field.jpg" alt="solar field" class="solar-pump-farm full-width hidden-xs">
-        <img src="~/assets/images/solar-field-2.jpg" alt="solar field" class="solar-pump-farm full-width visible-xs">
+        <img src="~/assets/images/solar-engineers.jpg" alt="solar engineers" class="solar-pump-farm full-width hidden-xs">
+        <img src="~/assets/images/solar-engineers-2.jpg" alt="solar engineers" class="solar-pump-farm full-width visible-xs">
       </div>
     </section>
     <!---=== end of Solar-Pump-Banner Section ===--->
