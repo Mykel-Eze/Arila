@@ -142,13 +142,13 @@ export default {
       }
     })
 
-    // function autoplay () {
-    //   const elemSlide = document.querySelector('#home .carousel')
-    //   M.Carousel.getInstance(elemSlide).next()
+    function autoplay () {
+      const elemSlide = document.querySelector('#home .carousel')
+      M.Carousel.getInstance(elemSlide).next()
 
-    //   setTimeout(autoplay, 8000)
-    // }
-    // setTimeout(autoplay, 8000)
+      setTimeout(autoplay, 8000)
+    }
+    setTimeout(autoplay, 8000)
   },
   methods: {
     prev () {
