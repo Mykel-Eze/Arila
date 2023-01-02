@@ -141,6 +141,15 @@ export default {
         document.querySelector('#home .progress .determinate').style.width = (currentSlideNum * 25) + 'px'
       }
     })
+
+    autoplay()
+    function autoplay () {
+      const elemSlide = document.querySelector('#home .carousel')
+      M.Carousel.getInstance(elemSlide).next()
+
+      setTimeout(autoplay, 4000)
+    }
+    setTimeout(autoplay, 4000)
   },
   methods: {
     prev () {
@@ -159,18 +168,18 @@ export default {
 
 <style scoped>
   #home[data-slide="1"] {
-    background-image: url("~/assets/images/hero-1.jpg");
+    background-image: url("~/assets/images/hero-1a.jpg");
   }
 
   #home[data-slide="2"] {
-    background-image: url("~/assets/images/hero-2.jpg");
-  }
-
-  #home[data-slide="3"] {
     background-image: url("~/assets/images/hero-3.jpg");
   }
 
+  #home[data-slide="3"] {
+    background-image: url("~/assets/images/hero-2a.jpg");
+  }
+
   #home[data-slide="4"] {
-    background-image: url("~/assets/images/hero-4.jpg");
+    background-image: url("~/assets/images/hero-4a.jpg");
   }
 </style>

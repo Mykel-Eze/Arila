@@ -18,7 +18,7 @@
               </p>
             </div>
             <div class="approach-home-img">
-              <img src="~/assets/images/integrated-network-collage.png" alt="integrated network collage">
+              <img src="~/assets/images/integrated-network-collage-2.png" alt="integrated network collage">
             </div>
           </div>
         </div>
@@ -362,7 +362,7 @@
                   “I’m unable to access machinery and equipment, which is limiting productivity."
                 </i>
               </div>
-              <img src="~/assets/images/talking-men.png" alt="talking-men" class="hs-block-img">
+              <img src="~/assets/images/farmer-and-tractor.png" alt="farmer-and-tractor" class="hs-block-img">
               <div class="holistic-desc-block">
                 <h4 class="hs-block-title bold-txt">
                   Japtini Asset Finance
@@ -375,7 +375,7 @@
               </div>
             </div>
             <div class="hs-block">
-              <img src="~/assets/images/happy-man.png" alt="happy-man" class="hs-img">
+              <img src="~/assets/images/happy-man-2.png" alt="happy-man" class="hs-img">
             </div>
             <div class="hs-block">
               <div class="hs-italics-txt">

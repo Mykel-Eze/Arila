@@ -644,7 +644,7 @@ a.explore-sdg-link:hover {
 }
 
 .impact-descriptions {
-  background-image: url(../images/photo-collage.png);
+  background-image: url(../images/photo-collage-2.png);
   background-size: 50%;
   background-position: right;
   background-repeat: no-repeat;
@@ -731,7 +731,7 @@ section#solutions-at-scale {
 }
 .sas-block-1 {
   padding: 50px 0 30px;
-  background: linear-gradient(0.82deg, #8DC63F 8.27%, rgba(94, 165, 115, 0.830652) 46.79%, rgba(28, 117, 188, 0.59) 106.06%),url("../images/solutions-bg.jpg");
+  background: linear-gradient(0.82deg, #8DC63F 8.27%, rgba(94, 165, 115, 0.830652) 46.79%, rgba(28, 117, 188, 0.59) 106.06%),url("../images/solutions-bg-2.jpg");
 }
 .solution-blocks-wrapper {
   margin: 30px 0;

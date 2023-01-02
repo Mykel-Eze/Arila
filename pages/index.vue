@@ -8,8 +8,8 @@
     <!---=== Solar-Pump-Banner Section ===--->
     <section id="solar-pump-banner" class="scrollspy">
       <div class="row mag-0">
-        <img src="~/assets/images/solar-pump.jpg" alt="solar pump farm" class="solar-pump-farm full-width hidden-xs">
-        <img src="~/assets/images/solar-pump-2.jpg" alt="solar pump farm" class="solar-pump-farm full-width visible-xs">
+        <img src="~/assets/images/solar-field.jpg" alt="solar field" class="solar-pump-farm full-width hidden-xs">
+        <img src="~/assets/images/solar-field-2.jpg" alt="solar field" class="solar-pump-farm full-width visible-xs">
       </div>
     </section>
     <!---=== end of Solar-Pump-Banner Section ===--->
@@ -364,7 +364,7 @@
             </div>
             <div class="impact-desc-img-wrapper hidden-xs">
               <div class="">
-                <img src="~/assets/images/photo-collage.png" alt="happy woman and tech farmers" class="impact-desc-main-img">
+                <img src="~/assets/images/photo-collage-2.png" alt="happy woman and tech farmers" class="impact-desc-main-img">
               </div>
             </div>
           </div>
@@ -463,7 +463,7 @@
               </ul>
             </div>
             <div class="sr-img-wrapper">
-              <img src="~/assets/images/farmers-group-1.png" alt="farmers" class="sr-img">
+              <img src="~/assets/images/why-group.png" alt="business-people" class="sr-img">
             </div>
           </div>
         </div>
