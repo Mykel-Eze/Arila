@@ -78,17 +78,42 @@
             </div>
           </div>
 
-          <div id="newsletter-wrapper" class="footer-content-block">
+          <div id="mc_embed_signup" class="footer-content-block">
             <div class="footer-sec-title">
               Join Our Newsletter
             </div>
             <div class="footer-sec-content">
               <div class="subscribe-form-wrapper">
-                <form id="newsletter-form" action="#">
+                <form
+                  id="mc-embedded-subscribe-form"
+                  action="https://arila.us10.list-manage.com/subscribe/post?u=4fc563423b0235bb20d536ed0&amp;id=5466ed2088&amp;f_id=002ac6e5f0"
+                  method="post"
+                  name="mc-embedded-subscribe-form"
+                  class="validate"
+                  target="_blank"
+                  novalidate
+                >
                   <div class="flex-div input-field">
-                    <label for="subscriber-email" class="active">Your Email</label>
-                    <input id="subscriber-email" placeholder="Enter Your Email" type="email" required>
-                    <button class="btn subscribe-submit sec-bg">
+                    <label for="mce-EMAIL" class="active">Your Email</label>
+                    <input
+                      id="mce-EMAIL"
+                      class="required email"
+                      name="EMAIL"
+                      placeholder="Enter Your Email"
+                      type="email"
+                      required
+                    >
+                    <span id="mce-EMAIL-HELPERTEXT" class="helper_text" />
+
+                    <div id="mce-responses" class="clear foot">
+                      <div id="mce-error-response" class="response" style="display: none;" />
+                      <div id="mce-success-response" class="response" style="display: none;" />
+                    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                      <input type="text" name="b_4fc563423b0235bb20d536ed0_5466ed2088" tabindex="-1" value="">
+                    </div>
+
+                    <button id="mc-embedded-subscribe" class="btn subscribe-submit sec-bg" name="subscribe">
                       Subscribe
                     </button>
                   </div>
@@ -112,8 +137,14 @@
 </template>
 
 <script>
+import $ from 'jquery'
 export default {
-  name: 'FooterComp'
+  name: 'FooterComp',
+  mounted () {
+    $('#mc-embedded-subscribe').click(function () {
+      $('#mce-EMAIL').val('')
+    })
+  }
 }
 </script>
 
