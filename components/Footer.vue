@@ -4,7 +4,9 @@
       <div class="container">
         <div class="footer-contents-wrapper">
           <div class="footer-content-block footer-logo-block">
-            <img src="~/assets/images/arila-white.svg" alt="Arila" class="footer-logo">
+            <nuxt-link to="/" @click="scrollToTop()">
+              <img src="~/assets/images/arila-white.svg" alt="Arila" class="footer-logo">
+            </nuxt-link>
 
             <div class="inq tel-inq">
               <ul>
@@ -27,22 +29,22 @@
             <div class="footer-sec-content">
               <ul class="footer-links-wrapper">
                 <li>
-                  <nuxt-link to="/" class="footer-link">
+                  <nuxt-link to="/" class="footer-link" @click="scrollToTop()">
                     Home
                   </nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/approach" class="footer-link">
+                  <nuxt-link to="/approach" class="footer-link" @click="scrollToTop()">
                     Our Approach
                   </nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/leadership" class="footer-link">
+                  <nuxt-link to="/leadership" class="footer-link" @click="scrollToTop()">
                     Leadership
                   </nuxt-link>
                 </li>
                 <li>
-                  <nuxt-link to="/join-us" class="footer-link">
+                  <nuxt-link to="/join-us" class="footer-link" @click="scrollToTop()">
                     Join Us
                   </nuxt-link>
                 </li>
@@ -133,18 +135,16 @@
         </div>
       </div>
     </div>
+
+    <script src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js" type="text/javascript" />
+    <script src="/mailchimp.js" type="text/javascript" />
   </footer>
 </template>
 
 <script>
-import $ from 'jquery'
+// import $ from 'jquery'
 export default {
-  name: 'FooterComp',
-  mounted () {
-    $('#mc-embedded-subscribe').click(function () {
-      $('#mce-EMAIL').val('')
-    })
-  }
+  name: 'FooterComp'
 }
 </script>
 

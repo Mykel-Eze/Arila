@@ -137,6 +137,16 @@ background: #1F2C3D;
 #mc_embed_signup form {
   margin: 0;
 }
+#mc_embed_signup div#mce-responses {
+  width: 100%;
+  padding-left: 0;
+  margin-left: 0;
+}
+#mc_embed_signup div.response {
+  width: 100%;
+  margin: 10px 0;
+  padding: 0;
+}
 
 @media(max-width: 992px) {
   .footer-content-block {

@@ -30,10 +30,15 @@
               </nuxt-link>
             </li>
             <li>
+              <nuxt-link to="/join-us" @click="scrollToTop()">
+                <span>Partners & Stakeholders</span>
+              </nuxt-link>
+            </li>
+            <!-- <li>
               <nuxt-link to="/join-us" class="nav-pry-btn btn" @click="scrollToTop()">
                 Join Us
               </nuxt-link>
-            </li>
+            </li> -->
           </ul>
         </div>
       </div>
@@ -62,12 +67,17 @@
           </nuxt-link>
         </li>
         <li>
+          <nuxt-link to="/join-us" class="sidenav-close" @click="scrollToTop()">
+            <span>Partners & Stakeholders</span>
+          </nuxt-link>
+        </li>
+        <!-- <li>
           <nuxt-link to="/join-us" class="sidenav-close">
             <button class="nav-pry-btn btn pointer">
               Join Us
             </button>
           </nuxt-link>
-        </li>
+        </li> -->
       </ul>
       <div class="sidenav-footer">
         <div class="footer-social-wrapper">
