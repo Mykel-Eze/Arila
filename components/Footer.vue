@@ -108,8 +108,8 @@
                     <span id="mce-EMAIL-HELPERTEXT" class="helper_text" />
 
                     <div id="mce-responses" class="clear foot">
-                      <div id="mce-error-response" class="response" style="display: none;" />
-                      <div id="mce-success-response" class="response" style="display: none;" />
+                      <div id="mce-error-response" class="response red-text" style="display: none;" />
+                      <div id="mce-success-response" class="response sec-color" style="display: none;" />
                     </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                     <div style="position: absolute; left: -5000px;" aria-hidden="true">
                       <input type="text" name="b_4fc563423b0235bb20d536ed0_5466ed2088" tabindex="-1" value="">
