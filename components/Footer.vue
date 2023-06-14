@@ -48,6 +48,11 @@
                     Join Us
                   </nuxt-link>
                 </li>
+                <li>
+                  <a href="https://blog.arila.org/" class="footer-link">
+                    <span>Our Blog</span>
+                  </a>
+                </li>
                 <!-- <li>
                   <nuxt-link to="/contact" class="footer-link">
                     Contact us
@@ -129,7 +134,7 @@
         <div class="row">
           <div class="container">
             <div class="footer-sub-wrapper">
-              <div>© 2022 Arila Business Management.</div>
+              <div>© {{ year }} Arila Business Management.</div>
             </div>
           </div>
         </div>
@@ -144,7 +149,12 @@
 <script>
 // import $ from 'jquery'
 export default {
-  name: 'FooterComp'
+  name: 'FooterComp',
+  data () {
+    return {
+      year: new Date().getFullYear()
+    }
+  }
 }
 </script>
 

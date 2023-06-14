@@ -34,6 +34,11 @@
                 <span>Partners & Stakeholders</span>
               </nuxt-link>
             </li>
+            <li>
+              <a href="https://blog.arila.org/">
+                <span>Our Blog</span>
+              </a>
+            </li>
             <!-- <li>
               <nuxt-link to="/join-us" class="nav-pry-btn btn" @click="scrollToTop()">
                 Join Us
@@ -70,6 +75,11 @@
           <nuxt-link to="/join-us" class="sidenav-close" @click="scrollToTop()">
             <span>Partners & Stakeholders</span>
           </nuxt-link>
+        </li>
+        <li>
+          <a href="https://blog.arila.org/" class="sidenav-close">
+            <span>Our Blog</span>
+          </a>
         </li>
         <!-- <li>
           <nuxt-link to="/join-us" class="sidenav-close">
