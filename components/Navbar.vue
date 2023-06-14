@@ -36,7 +36,7 @@
             </li>
             <li>
               <a href="https://blog.arila.org/">
-                <span>Our Blog</span>
+                <span>Arila News</span>
               </a>
             </li>
             <!-- <li>
@@ -78,7 +78,7 @@
         </li>
         <li>
           <a href="https://blog.arila.org/" class="sidenav-close">
-            <span>Our Blog</span>
+            <span>Arila News</span>
           </a>
         </li>
         <!-- <li>

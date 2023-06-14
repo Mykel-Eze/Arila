@@ -50,7 +50,7 @@
                 </li>
                 <li>
                   <a href="https://blog.arila.org/" class="footer-link">
-                    <span>Our Blog</span>
+                    <span>Arila News</span>
                   </a>
                 </li>
                 <!-- <li>
