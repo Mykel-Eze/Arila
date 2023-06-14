@@ -35,7 +35,7 @@
               </nuxt-link>
             </li>
             <li>
-              <a href="https://blog.arila.org/">
+              <a href="https://news.arila.org/">
                 <span>Arila News</span>
               </a>
             </li>
@@ -77,7 +77,7 @@
           </nuxt-link>
         </li>
         <li>
-          <a href="https://blog.arila.org/" class="sidenav-close">
+          <a href="https://news.arila.org/" class="sidenav-close">
             <span>Arila News</span>
           </a>
         </li>

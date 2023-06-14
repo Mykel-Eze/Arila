@@ -49,7 +49,7 @@
                   </nuxt-link>
                 </li>
                 <li>
-                  <a href="https://blog.arila.org/" class="footer-link">
+                  <a href="https://news.arila.org/" class="footer-link">
                     <span>Arila News</span>
                   </a>
                 </li>
