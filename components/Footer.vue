@@ -68,17 +68,17 @@
             </div>
             <div class="footer-sec-content">
               <div class="footer-social-wrapper">
-                <a href="http://facebook.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
                   <img src="~/assets/images/facebook.svg" alt="facebook" class="social-icons">
                 </a>
 
-                <a href="http://twitter.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                   <img src="~/assets/images/twitter.svg" alt="twitter" class="social-icons">
                 </a>
-                <a href="http://whatsapp.com" target="_blank" rel="noopener noreferrer">
-                  <img src="~/assets/images/whatsapp.svg" alt="whatsapp" class="social-icons">
+                <a href="https://instagram.com/arilaafrica" target="_blank" rel="noopener noreferrer">
+                  <img src="~/assets/images/instagram.svg" alt="instagram" class="social-icons">
                 </a>
-                <a href="http://linkedin.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
                   <img src="~/assets/images/linkedin.svg" alt="linkedin" class="social-icons">
                 </a>
               </div>
